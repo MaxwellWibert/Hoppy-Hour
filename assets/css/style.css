@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	width: 100%;
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ef/d9/24/efd924bf90a260ab3e4649baa76678db.jpg");
+	background-size: cover;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.heading {
+	width: 100%;
+	background-color: rgb(237, 234, 218);
+	border-bottom: 2px solid peru;
+	margin-bottom: 20px;
+}
+
+.location {
+	width: 70%;
+	margin: 0 auto;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.location-heading {
+	background-color: crimson;
+	color: lemonchiffon;
+	text-align: left;
+}
+
+.location form {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.street {
+	width: 100%;
+}
